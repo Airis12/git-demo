@@ -1,4 +1,12 @@
+<<<<<< HEAD
 hello atguigu!hello git
 i am lemons!aaaa in master
 i am lemons!ggg in test
 aaaaaaaaaaaa
+=======
+hello atguigu!hello git!
+i am lemons!ggg
+
+
+bbbbbbbbbb
+>>>>>>> test
