@@ -1,16 +1,1 @@
-<<<<<< HEAD
-hello atguigu!hello git
-i am lemons!aaaa in master
-i am lemons!ggg in test
-aaaaaaaaaaaa
-=======
-hello atguigu!hello git!
-i am lemons!ggg
-
-
-bbbbbbbbbb
-sssss>>>>>> test
-
-hello,i i am Airis!
-
-亢龙有怨,谦龙无悔！
+Hello,Mr.Robot!
